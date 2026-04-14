@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aziz Ituntungan</h1>
+<h1 align="center">Hi 👋, I'm Zee</h1>
 
 <p align="center">
   🚀 Full-Stack Developer | 🔥 Open Source Enthusiast  
@@ -35,11 +35,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizituntungan321&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ziimkmn&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azizituntungan321&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziimkmn&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizituntungan321&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziimkmn&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -54,18 +54,6 @@
 ## 🎯 Hobbies
 - 🎬 Movies
 - 🎧 Music
-
----
-
-## 🌍 Connect With Me
-<p>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram" />
-  </a>
-</p>
 
 ---
 
