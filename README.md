@@ -26,20 +26,10 @@
 </p>
 
 ### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,react" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziimkmn&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,react,mongodb,redis" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziimkmn&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziimkmn&layout=compact&theme=tokyonight" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" />
 </p>
 
 ---
