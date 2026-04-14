@@ -36,13 +36,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziimkmn&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 > The problems are not obstacles, they are opportunities 🚀
